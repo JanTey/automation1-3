@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/vxwr0y773l0rlsfj/branch/master?svg=true)](https://ci.appveyor.com/project/JanTey/automation1-3/branch/master)
 ## Задача №3: Postman Echo
 
 **Важно**: эту задачу нужно выполнять в отдельном репозитории.
